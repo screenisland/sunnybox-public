@@ -1,2 +1,2 @@
 # sunnybox-issues
-This is the issue tracker for sunnybox.io
+This is the public issue tracker for sunnybox.io
